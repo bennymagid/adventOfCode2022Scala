@@ -18,11 +18,5 @@ object day2 {
       .map(p => gameScore(p.split(" ")
         .map(_.charAt(0))))
     println(pt1.sum)
-
-
-
-
-
-
   }
 }

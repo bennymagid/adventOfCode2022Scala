@@ -19,8 +19,6 @@ object day1 {
     println(pt1)
     println(pt2)
 
-
-
   }
 
 }

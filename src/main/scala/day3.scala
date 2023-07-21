@@ -15,9 +15,5 @@ object day3 {
       .map(s => {s(0).toSet.intersect(s(1).toSet)}.intersect(s(2).toSet).map(charToInt).sum)
       .sum
     println(pt2)
-
-
-
-
   }
 }
